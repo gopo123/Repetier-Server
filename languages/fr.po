@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Repetier-Server\n"
 "POT-Creation-Date: 2013-01-27 15:14+0100\n"
-"PO-Revision-Date: 2013-05-21 16:16+0100\n"
+"PO-Revision-Date: 2013-05-21 16:58+0100\n"
 "Last-Translator: repetier <repetierdev@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -151,7 +151,7 @@ msgstr "Extruder"
 
 #: printer.php:106
 msgid "Temperature setting:"
-msgstr "Réglage de Température : "
+msgstr "Température : "
 
 #: printer.php:107
 msgid "Set extruder temperature"
@@ -159,7 +159,7 @@ msgstr "Configurer Température Extrudeur"
 
 #: printer.php:108 printer.php:129
 msgid "Set temperature"
-msgstr "Configurer la Température"
+msgstr "Configurer Température"
 
 #: printer.php:108 printer.php:129
 msgid "Turn off"
