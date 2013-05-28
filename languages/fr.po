@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Repetier-Server\n"
 "POT-Creation-Date: 2013-01-27 15:14+0100\n"
-"PO-Revision-Date: 2013-05-21 18:22+0100\n"
+"PO-Revision-Date: 2013-05-28 12:08+0100\n"
 "Last-Translator: repetier <repetierdev@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Documentation"
 #: about.php:55 configure.php:55 documentation.php:52 index.php:55
 #: printer.php:142
 msgid "Printer overview"
-msgstr "Vue d'ensemble"
+msgstr "Vue d`ensemble"
 
 #: configure.php:57 index.php:137
 msgid "Configure"
@@ -73,7 +73,7 @@ msgstr "Action"
 
 #: index.php:110
 msgid "Do you really want to disconnect the printer?"
-msgstr "Voulez vous réellement déconnecter l'imprimante ?"
+msgstr "Voulez vous réellement déconnecter limprimante ?"
 
 #: index.php:111 printer.php:451 printer.php:462 printer.php:473
 #: printer.php:484 printer.php:495
@@ -256,7 +256,7 @@ msgstr "Log Imprimante"
 
 #: printer.php:294
 msgid "Show commands send<br/>to the printer."
-msgstr "Montrer les commandes envoyées à l'imprimante."
+msgstr "Montrer les commandes envoyées <br/>à l`imprimante."
 
 #: printer.php:294
 msgid "Commands"
@@ -264,7 +264,7 @@ msgstr "Commandes"
 
 #: printer.php:295
 msgid "Show printer acknowledges and<br/>state change messages."
-msgstr "Monter les acquittements et les messages de changement d'état."
+msgstr "Monter les acquittements et les messages<br/>de changement détat."
 
 #: printer.php:295
 msgid "ACK"
@@ -275,13 +275,13 @@ msgid ""
 "Stops the log update so you can read<br/> the log. After restart old logs "
 "are fetched<br/>from the server if still available."
 msgstr ""
-"Stoppe les mises à jours des logs afin de permettre la lecture des logs. "
-"Après redémarrage les anciens logs sont affichés depuis le serveur s'ils "
-"sont disponibles."
+"Stoppe les mises à jours des logs afin<br/>de permettre la lecture des logs."
+"<br/>Après redémarrage les anciens logs<br/>sont affichés depuis le "
+"serveur<br/>s`ils sont disponibles."
 
 #: printer.php:296
 msgid "Pause log Update"
-msgstr "Stopper la mise à jour des logs."
+msgstr "Stopper la mise à jour des logs"
 
 #: printer.php:398 printer.php:401 printer.php:416 printer.php:429
 msgid "Off"
@@ -289,7 +289,7 @@ msgstr "Off"
 
 #: printer.php:437
 msgid "Waiting for print"
-msgstr "En attente d'impression"
+msgstr "En attente d`impression"
 
 #: printer.php:437
 msgid "Stored"
@@ -297,7 +297,7 @@ msgstr "Stocké"
 
 #: printer.php:438
 msgid "Printing ..."
-msgstr "Impression..."
+msgstr "Impression…"
 
 #: printer.php:450
 msgid "Do you really want to start this job?"
@@ -317,7 +317,7 @@ msgstr "Vousles vous vraiment supprimer ce modèle ?"
 
 #: printer.php:494
 msgid "Do you really want to copy this model to the job queue?"
-msgstr "Voules vous vraiment mettre ce modèle en liste d'attente ?"
+msgstr "Voules vous vraiment mettre ce modèle en liste dattente ?"
 
 #: printer.php:518
 msgid "Stop"
